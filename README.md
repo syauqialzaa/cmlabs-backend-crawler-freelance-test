@@ -1,4 +1,4 @@
-<h1 align="center"><b>cmlabs-practical-tasks-be-dev</b></h1>
+<h1 align="center"><b>cmlabs-backend-crawler-freelance-test</b></h1>
 
 Additional intermediate back-end developer practical tasks. The Crawler Website API.\
 Website company: https://cmlabs.co
